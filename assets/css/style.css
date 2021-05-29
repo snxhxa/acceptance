@@ -544,6 +544,7 @@ section {
 
 .carousel-container {
   width: 30vw;
+  min-width: 400px;
   height: auto;
   margin: 0 auto;
   padding: 0;
